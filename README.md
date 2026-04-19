@@ -6,10 +6,10 @@ O sistema permite que o usuário fale com o microfone, transcreve o áudio, gera
 
 # Funções:
 
--Gravação de áudio em tempo real
--Transcrição de fala usando Whisper
--Geração de resposta com modelo de linguagem
--Conversão de texto para áudio (gTTS)
+- Gravação de áudio em tempo real
+- Transcrição de fala usando Whisper
+- Geração de resposta com modelo de linguagem
+- Conversão de texto para áudio (gTTS)
 
 # Tecnologias utilizadas
 Python
